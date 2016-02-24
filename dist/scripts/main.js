@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(a){a(".automatic-slider").unslider({autoplay:!0,nav:!1,arrows:!1})});
