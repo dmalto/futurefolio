@@ -1,0 +1,29 @@
+%hoverwidth {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+%smhoverwidth {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+%h4hover {
+	@media (min-width:1330px) {
+	font-size: 20px;
+	cursor: pointer;
+	}
+}
+
+%ihover {
+	@media (min-width:1330px) {
+	font-size: 32px;
+	}
+}
+
+%phover {
+	@media (min-width:1330px) {
+	font-size: 20px;
+	cursor: pointer;
+	}
+}
