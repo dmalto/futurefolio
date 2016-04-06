@@ -1,1 +1,1 @@
-# starting project for a new site
+src and some dist files for new portfolio site
