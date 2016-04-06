@@ -1,1 +1,1 @@
-src and some dist files for new portfolio site
+# Gulp build and html, scss source files for new portfolio site.
